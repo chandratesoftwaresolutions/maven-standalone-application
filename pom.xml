@@ -36,6 +36,14 @@
 		</dependency>
 
 	</dependencies>
+	<distributionManagement>
+	
+	   <repository>
+	      <id>nexus</id>
+	      <name>Chandra Technologies Releases Nexus Repository</name>
+	      <url>http://13.233.22.43:9640/chandrasoftwaresolutions/repository/Maven-standalone-app.jar/</url>
+	   </repository>
+	</distributionManagement>
 
 	<!-- Committing and updating changes through Maven, by using below mvn command. 
 		For Commiting mvn -Dmessage="Updated using maven" scm:checkin For updating 
