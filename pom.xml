@@ -3,8 +3,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mt</groupId>
-	<artifactId>maven-stanalone-application</artifactId>
-	<version>1.0.0-RELEASE</version>
+	<artifactId>maven-standalone-application</artifactId>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
 	<name>maven-stanalone-application</name>
