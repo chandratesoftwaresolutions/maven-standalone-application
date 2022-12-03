@@ -4,7 +4,7 @@
 
 	<groupId>com.mt</groupId>
 	<artifactId>maven-standalone-application</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.0-RELEASE</version>
 	<packaging>jar</packaging>
 
 	<name>maven-stanalone-application</name>
