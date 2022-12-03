@@ -41,7 +41,7 @@
 	   <repository>
 	      <id>nexus</id>
 	      <name>Chandra Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.22.43:9640/chandrasoftwaresolutions/repository/Maven-standalone-app.jar/</url>
+	      <url>http://13.232.243.76:9640/chandrasoftwaresolutions/repository/Maven-standalone-app.jar/</url>
 	   </repository>
 	</distributionManagement>
 
